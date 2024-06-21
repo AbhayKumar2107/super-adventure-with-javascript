@@ -1,2 +1,0 @@
-hello there,
-in this perticular folder i have uploaded files about loops and iterators
